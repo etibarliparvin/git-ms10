@@ -1,1 +1,4 @@
 Hello git
+
+
+Git is cool if no conflicts
